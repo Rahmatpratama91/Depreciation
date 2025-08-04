@@ -10,6 +10,7 @@ A Python project to compute and visualize annual depreciation and book value of 
 ## 📌 Project Overview
 
 This project simulates the depreciation of a machine with the following conditions:
+<img width="950" height="275" alt="image" src="https://github.com/user-attachments/assets/13d5848d-a00e-41bc-9a39-d64eb885329e" />
 
 - **Initial Cost:** Rp 15,000
 - **Salvage Value:** 10% of purchase price (Rp 1,500)
@@ -21,8 +22,6 @@ The results are visualized using matplotlib to compare the depreciation effect o
 ---
 
 ## 🧩 Problem
-<img width="950" height="275" alt="image" src="https://github.com/user-attachments/assets/13d5848d-a00e-41bc-9a39-d64eb885329e" />
-
 Understanding how different depreciation methods affect the value of assets is crucial in industrial engineering and accounting. This project helps to:
 
 - Calculate depreciation for fixed assets
