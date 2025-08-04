@@ -16,11 +16,12 @@ This project simulates the depreciation of a machine with the following conditio
 - **Useful Life:** 5 years
 - **Interest Rate:** 18%
 
-The results are visualized using Matplotlib to compare the depreciation effect over time.
+The results are visualized using matplotlib to compare the depreciation effect over time.
 
 ---
 
 ## 🧩 Problem
+<img width="950" height="275" alt="image" src="https://github.com/user-attachments/assets/13d5848d-a00e-41bc-9a39-d64eb885329e" />
 
 Understanding how different depreciation methods affect the value of assets is crucial in industrial engineering and accounting. This project helps to:
 
@@ -32,22 +33,16 @@ Understanding how different depreciation methods affect the value of assets is c
 
 ## ✨ Features
 
-- 📉 Calculates annual depreciation and book value for 5 years
-- 📊 Generates comparative line plot for all three methods
-- 🔁 Easy to modify for different values or durations
-- 📦 Clean and readable Python code
-
----
+- Calculates annual depreciation and book value for 5 years
+- Generates comparative line plot for straight line, sinking fund and double declining balance methods
 
 ## 🛠 Tools Used
 
-- **Python 3.8+**
-- **NumPy**: numerical calculations
-- **Matplotlib**: data visualization
+- Python(numpy, matplotlib)
 
 ---
 
-## 📈 Result Preview
+## 📈 Result 
 
 The final output shows a comparative plot of book values:
 - Straight Line → Linear drop
@@ -58,7 +53,6 @@ Each method provides different financial implications for asset management.
 
 ---
 
-## 🚀 Run the Project
+## 🚀 Run the script
 
-```bash
 python depreciation_methods.py
