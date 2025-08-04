@@ -1,6 +1,6 @@
 # Depreciation Methods Calculator
 - Depreciation is the process of allocating the cost of a tangible fixed asset over its useful life. It reflects how much of the asset’s value has been used up over time.
-- Why depreciation matters: shows asset’s decreasing value on financial statements.Helps in tax deduction (as expense). Aids in budgeting for replacement of assets.
+- Why depreciation matters: Shows asset’s decreasing value on financial statements.Helps in tax deduction (as expense). Aids in budgeting for replacement of assets.
 - Examples of depreciable assets: machines,vehicles,buildings,computers.
 
 ---
