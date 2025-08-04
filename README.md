@@ -1,15 +1,17 @@
 # Depreciation Methods Calculator
-
-A Python project to compute and visualize annual depreciation and book value of an asset using three different depreciation methods:
-1. Straight Line Method
-2. Sinking Fund Method
-3. Double Declining Balance Method
+- Depreciation is the process of allocating the cost of a tangible fixed asset over its useful life. It reflects how much of the asset’s value has been used up over time.
+- Why Depreciation Matters: Shows asset’s decreasing value on financial statements.Helps in tax deduction (as expense). Aids in budgeting for replacement of assets.
+- Examples of Depreciable Assets: Machine,vehicles,buildings,computers.
 
 ---
 
 ## 📌 Project Overview
-
-This project simulates the depreciation of a machine with the following conditions:
+- A Python project to compute and visualize annual depreciation and book value of an asset using three different depreciation methods:
+1. Straight Line Method
+2. Sinking Fund Method
+3. Double Declining Balance Method
+   
+- This project simulates the depreciation of a machine with the following conditions:
 <img width="950" height="275" alt="image" src="https://github.com/user-attachments/assets/13d5848d-a00e-41bc-9a39-d64eb885329e" />
 
 - **Initial Cost:** Rp 15,000
@@ -44,9 +46,11 @@ Understanding how different depreciation methods affect the value of assets is c
 ## 📈 Result 
 
 The final output shows a comparative plot of book values:
-- Straight Line → Linear drop
-- Sinking Fund → Slow start, fast end
-- DDB → Fast start, slow end
+<img width="1425" height="849" alt="image" src="https://github.com/user-attachments/assets/99b2bf21-44a7-4b12-bd53-37215073ca9c" />
+
+- Straight Line = Linear drop
+- Sinking Fund = Slow start, fast end
+- DDB = Fast start, slow end
 
 Each method provides different financial implications for asset management.
 
