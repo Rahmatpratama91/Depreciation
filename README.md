@@ -46,7 +46,7 @@ Understanding how different depreciation methods affect the value of assets is c
 ## 📈 Result 
 
 The final output shows a comparative plot of book values:
-<img width="1425" height="849" alt="image" src="https://github.com/user-attachments/assets/99b2bf21-44a7-4b12-bd53-37215073ca9c" />
+<img width="1425" height="993" alt="image" src="https://github.com/user-attachments/assets/eaa68186-83b6-40fc-9701-59904d30fba0" />
 
 - Straight Line = Linear drop
 - Sinking Fund = Slow start, fast end
